@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/IlyassPortfolio/static/css/main.58462fbc.css",
+    "main.js": "/IlyassPortfolio/static/js/main.3c547cd6.js",
+    "static/media/I was in pain before I became numb.mp3": "/IlyassPortfolio/static/media/I was in pain before I became numb.c31fae1fd651c03b54ba.mp3",
+    "static/media/podmix.png": "/IlyassPortfolio/static/media/podmix.57c77fefed651e6d38f2.png",
+    "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/IlyassPortfolio/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014fb6ce5980110.jpg",
+    "static/media/ecomerce.png": "/IlyassPortfolio/static/media/ecomerce.96ccc2cfc2b0a31c810a.png",
+    "static/media/food.png": "/IlyassPortfolio/static/media/food.c23cddabae91125ad471.png",
+    "static/media/vitePayment.png": "/IlyassPortfolio/static/media/vitePayment.b8f3f8d9a2b87ef70a3d.png",
+    "static/media/profile-img.png": "/IlyassPortfolio/static/media/profile-img.694617abd66463de1c2b.png",
+    "static/media/githup.png": "/IlyassPortfolio/static/media/githup.2a1133685c04f995e7b3.png",
+    "static/media/spaceman.png": "/IlyassPortfolio/static/media/spaceman.5ec7fcfa9a803ead726c.png",
+    "static/media/Carlos.png": "/IlyassPortfolio/static/media/Carlos.b1a7c249e9ee7e0325d8.png",
+    "static/media/signIn.png": "/IlyassPortfolio/static/media/signIn.d7a1c76081ec32f7ffcc.png",
+    "index.html": "/IlyassPortfolio/index.html",
+    "main.58462fbc.css.map": "/IlyassPortfolio/static/css/main.58462fbc.css.map",
+    "main.3c547cd6.js.map": "/IlyassPortfolio/static/js/main.3c547cd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58462fbc.css",
+    "static/js/main.3c547cd6.js"
+  ]
+}
