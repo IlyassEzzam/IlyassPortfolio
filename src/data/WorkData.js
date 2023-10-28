@@ -65,4 +65,44 @@ export const Work = [
         github:"https://github.com/IlyassEzzam/vite-project"
         
     },
+    {
+        id:8,
+        name:"travel",
+        description:"Project is a Payment page.",
+        tags:["react","Vite-react", "tailwinds"],
+        
+        demo:"https://ilyassezzam.github.io/travel/",
+        github:"https://github.com/IlyassEzzam/travel"
+        
+    },
+    // {
+    //     id:9,
+    //     name:"9",
+    //     description:"Project is a Payment page.",
+    //     tags:["react","Vite-react", "tailwinds"],
+        
+    //     demo:"https://ilyassezzam.github.io/vite-project/",
+    //     github:"https://github.com/IlyassEzzam/vite-project"
+        
+    // },
+    // {
+    //     id:10,
+    //     name:"10",
+    //     description:"Project is a Payment page.",
+    //     tags:["react","Vite-react", "tailwinds"],
+        
+    //     demo:"https://ilyassezzam.github.io/vite-project/",
+    //     github:"https://github.com/IlyassEzzam/vite-project"
+        
+    // },
+    // {
+    //     id:11,
+    //     name:"11",
+    //     description:"Project is a Payment page.",
+    //     tags:["react","Vite-react", "tailwinds"],
+        
+    //     demo:"https://ilyassezzam.github.io/vite-project/",
+    //     github:"https://github.com/IlyassEzzam/vite-project"
+        
+    // },
 ] 
