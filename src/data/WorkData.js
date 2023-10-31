@@ -1,7 +1,7 @@
 export const Work = [
     {
         id:1,
-        name:"My page on GitHup where I post my projects",
+        name:"1.My page on GitHup where I post my projects",
         description:"It is a website where all the projects I am working on are located.",
         tags:["react","gsap","styledComponents"],
         
@@ -10,7 +10,7 @@ export const Work = [
     },
     {
         id:2,
-        name:"E-commerce website",
+        name:"2.E-commerce website",
         description:"Landing page for a store project with many incomplete pages.",
         tags:["react","sass"],
         
@@ -20,7 +20,7 @@ export const Work = [
     },
     {
         id:3,
-        name:"Food Kaneki Website",
+        name:"3.Food Kaneki Website",
         description:"Landing page for a food store project.",
         tags:["react","api","sass"],
         
@@ -29,7 +29,7 @@ export const Work = [
     },
     {
         id:4,
-        name:"podcast Website",
+        name:"4.podcast Website",
         description:"A site for using audio and songs, Spotify.",
         tags:["react","styledComponents","react-router"],
         
@@ -37,7 +37,7 @@ export const Work = [
         github:"https://github.com/IlyassEzzam/Podmmix"
     },{
         id:5,
-        name:"carlos web site",
+        name:"5.carlos web site",
         description:"Beauty gallery landing page.",
         tags:["react","redux","framer-motion"],
         
@@ -47,7 +47,7 @@ export const Work = [
     },
     {
         id:6,
-        name:"Sign in",
+        name:"6.Sign in",
         description:"Project is a login page.",
         tags:["react","react-router","css"],
         
@@ -57,7 +57,7 @@ export const Work = [
     },
     {
         id:7,
-        name:"vite_payment",
+        name:"7.vite_payment",
         description:"Project is a Payment page.",
         tags:["react","Vite-react", "tailwinds"],
         
@@ -67,7 +67,7 @@ export const Work = [
     },
     {
         id:8,
-        name:"travel",
+        name:"8.travel",
         description:"Project is a Payment page.",
         tags:["react","Vite-react", "tailwinds"],
         
@@ -75,16 +75,16 @@ export const Work = [
         github:"https://github.com/IlyassEzzam/travel"
         
     },
-    // {
-    //     id:9,
-    //     name:"9",
-    //     description:"Project is a Payment page.",
-    //     tags:["react","Vite-react", "tailwinds"],
+    {
+        id:9,
+        name:"9.E-commerce Search",
+        description:"E-Commerce-Advance-Filtering  ",
+        tags:["react","html","css", "js"],
         
-    //     demo:"https://ilyassezzam.github.io/vite-project/",
-    //     github:"https://github.com/IlyassEzzam/vite-project"
+        demo:"https://ilyassezzam.github.io/E-Commerce-Advance-Filtering/",
+        github:"https://github.com/IlyassEzzam/E-Commerce-Advance-Filtering"
         
-    // },
+    },
     // {
     //     id:10,
     //     name:"10",

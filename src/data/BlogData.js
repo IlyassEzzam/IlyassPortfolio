@@ -64,4 +64,12 @@ export const Blogs = [
         imgSrc:require("../assets/Images/Blog/travel.png"),
         link:"https://ilyassezzam.github.io/travel/"
     },
+    {
+        id:9,
+        name:"E-Commerce-Advance-Filtering",
+        tags:["react","html","css", "js"],
+        date:"1 nev, 2023",
+        imgSrc:require("../assets/Images/Blog/E-Commerce.jpg"),
+        link:"https://ilyassezzam.github.io/E-Commerce-Advance-Filtering/"
+    },
 ] 
