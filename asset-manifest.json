@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/IlyassPortfolio/static/css/main.58462fbc.css",
-    "main.js": "/IlyassPortfolio/static/js/main.056827a7.js",
+    "main.js": "/IlyassPortfolio/static/js/main.6e2f403f.js",
     "static/media/I was in pain before I became numb.mp3": "/IlyassPortfolio/static/media/I was in pain before I became numb.c31fae1fd651c03b54ba.mp3",
     "static/media/podmix.png": "/IlyassPortfolio/static/media/podmix.57c77fefed651e6d38f2.png",
     "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/IlyassPortfolio/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014fb6ce5980110.jpg",
+    "static/media/Sharingan-Advice.gif": "/IlyassPortfolio/static/media/Sharingan-Advice.77bd3212dbcb79120037.gif",
     "static/media/travel.png": "/IlyassPortfolio/static/media/travel.5117f5fd61b986014d5a.png",
     "static/media/ecomerce.png": "/IlyassPortfolio/static/media/ecomerce.96ccc2cfc2b0a31c810a.png",
     "static/media/food.png": "/IlyassPortfolio/static/media/food.c23cddabae91125ad471.png",
@@ -17,10 +18,10 @@
     "static/media/signIn.png": "/IlyassPortfolio/static/media/signIn.d7a1c76081ec32f7ffcc.png",
     "index.html": "/IlyassPortfolio/index.html",
     "main.58462fbc.css.map": "/IlyassPortfolio/static/css/main.58462fbc.css.map",
-    "main.056827a7.js.map": "/IlyassPortfolio/static/js/main.056827a7.js.map"
+    "main.6e2f403f.js.map": "/IlyassPortfolio/static/js/main.6e2f403f.js.map"
   },
   "entrypoints": [
     "static/css/main.58462fbc.css",
-    "static/js/main.056827a7.js"
+    "static/js/main.6e2f403f.js"
   ]
 }
