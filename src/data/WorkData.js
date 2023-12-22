@@ -85,16 +85,16 @@ export const Work = [
         github:"https://github.com/IlyassEzzam/E-Commerce-Advance-Filtering"
         
     },
-    // {
-    //     id:10,
-    //     name:"10",
-    //     description:"Project is a Payment page.",
-    //     tags:["react","Vite-react", "tailwinds"],
+    {
+        id:10,
+        name:"10.Sharingan-Advice",
+        description:"Every day advice with kaneki, it's fun.",
+        tags:["react","Vite-react", "tailwinds"],
         
-    //     demo:"https://ilyassezzam.github.io/vite-project/",
-    //     github:"https://github.com/IlyassEzzam/vite-project"
+        demo:"https://ilyassezzam.github.io/Sharingan-Advice/",
+        github:"https://github.com/IlyassEzzam/Sharingan-Advice"
         
-    // },
+    },
     // {
     //     id:11,
     //     name:"11",
