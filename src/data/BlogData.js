@@ -72,4 +72,12 @@ export const Blogs = [
         imgSrc:require("../assets/Images/Blog/E-Commerce.jpg"),
         link:"https://ilyassezzam.github.io/E-Commerce-Advance-Filtering/"
     },
+    ,{
+        id:10,
+        name:"Sharingan-Advice",
+        tags:["react","Vite-react", "tailwinds"],
+        date:"1 nev, 2023",
+        imgSrc:require("../assets/Images/Blog/Sharingan-Advice.gif"),
+        link:"https://ilyassezzam.github.io/Sharingan-Advice/"
+    },
 ] 
