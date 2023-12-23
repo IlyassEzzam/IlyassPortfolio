@@ -18,6 +18,7 @@ background-size: cover;
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-position: center;
+
 `
 const Container = styled.div`
 background-color: ${props => `rgba(${props.theme.bodyRgba},0.8)`};
@@ -35,10 +36,19 @@ align-items: center;
 padding-top: 10rem;
 `
 
+
 const Grid = styled.div`
 display: grid;
 grid-template-columns: repeat(2, minmax(calc(10rem + 15vw), 1fr));
 grid-gap: calc(1rem + 2vw);
+
+@media (max-width: 800px) {
+    grid-template-columns: none;
+    /* .comp{
+        display: block;
+        overflow: hidden;
+    } */
+  }
 `
 
 // Framer-motion config
@@ -85,7 +95,7 @@ const BlogPage = () => {
 
 {
     Blogs.map(blog => {
-        return <BlogComponent key={blog.id} blog={blog} />
+        return <BlogComponent className={`comp`} key={blog.id} blog={blog} />
     })
 }
 </Grid>

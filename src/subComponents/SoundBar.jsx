@@ -47,7 +47,7 @@ animation:${play} 1s ease infinite;
 animation-play-state: ${props => props.click ? "running" : "paused"};
 height: 1rem;
 width: 2px;
-margin:0 0.1rem
+margin:0 0.1rem;
 `
 
 const SoundBar = () => {

@@ -18,7 +18,10 @@ position: relative;
 display: flex;
 justify-content: space-evenly;
 align-items: center;
-
+@media (max-width: 800px) {
+    flex-direction: column;
+    gap: 10px;
+  }
 
 `
 
@@ -32,7 +35,12 @@ height: 60vh;
 z-index:3;
 line-height: 1.5;
 cursor: pointer;
-
+@media (max-width: 800px) {
+    position: relative;
+    top: 273px;
+    width: 48vw;
+    height: 74vh;
+  }
 font-family: 'Ubuntu Mono',monospace;
 display: flex;
 flex-direction: column;
@@ -49,6 +57,7 @@ display: flex;
 justify-content: center;
 align-items: center;
 font-size: calc(1em + 1vw);
+
 
 ${Main}:hover &{
     &>*{

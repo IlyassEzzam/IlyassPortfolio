@@ -17,6 +17,7 @@ const Box = styled(motion.a)`
   display: flex;
   flex-direction: column;
   z-index: 5;
+ 
 
   &:hover {
     color: ${(props) => props.theme.body};

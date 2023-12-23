@@ -14,7 +14,11 @@ justify-content: center;
 align-items: center;
 flex-direction: column;
 transform: translateY(-100%);
-
+@media (max-width: 800px) {
+      z-index: -105;
+      overflow: hidden;
+      display: block;
+  }
 .chain{
 transform: rotate(135deg);
 
@@ -26,6 +30,7 @@ const PreDisplay = styled.div`
 position: absolute;
 top:0;
 right: 2rem;
+
 `
 
 
