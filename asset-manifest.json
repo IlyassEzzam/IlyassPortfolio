@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/IlyassPortfolio/static/css/main.58462fbc.css",
-    "main.js": "/IlyassPortfolio/static/js/main.6e2f403f.js",
-    "static/media/I was in pain before I became numb.mp3": "/IlyassPortfolio/static/media/I was in pain before I became numb.c31fae1fd651c03b54ba.mp3",
+    "main.js": "/IlyassPortfolio/static/js/main.dc92ea50.js",
+    "static/media/I was in pain before I became numb.mp3": "/IlyassPortfolio/static/media/I was in pain before I became numb.4d2202ff9c92a3d59c59.mp3",
+    "static/media/sharingan.webp": "/IlyassPortfolio/static/media/sharingan.29f5707265e0c6cd9b9b.webp",
     "static/media/podmix.png": "/IlyassPortfolio/static/media/podmix.57c77fefed651e6d38f2.png",
     "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/IlyassPortfolio/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014fb6ce5980110.jpg",
     "static/media/Sharingan-Advice.gif": "/IlyassPortfolio/static/media/Sharingan-Advice.77bd3212dbcb79120037.gif",
@@ -10,6 +11,7 @@
     "static/media/ecomerce.png": "/IlyassPortfolio/static/media/ecomerce.96ccc2cfc2b0a31c810a.png",
     "static/media/food.png": "/IlyassPortfolio/static/media/food.c23cddabae91125ad471.png",
     "static/media/vitePayment.png": "/IlyassPortfolio/static/media/vitePayment.b8f3f8d9a2b87ef70a3d.png",
+    "static/media/kanekikaneki.png": "/IlyassPortfolio/static/media/kanekikaneki.2010f20f1a96b12f6c28.png",
     "static/media/profile-img.png": "/IlyassPortfolio/static/media/profile-img.694617abd66463de1c2b.png",
     "static/media/E-Commerce.jpg": "/IlyassPortfolio/static/media/E-Commerce.516013a706f5b2058559.jpg",
     "static/media/githup.png": "/IlyassPortfolio/static/media/githup.2a1133685c04f995e7b3.png",
@@ -18,10 +20,10 @@
     "static/media/signIn.png": "/IlyassPortfolio/static/media/signIn.d7a1c76081ec32f7ffcc.png",
     "index.html": "/IlyassPortfolio/index.html",
     "main.58462fbc.css.map": "/IlyassPortfolio/static/css/main.58462fbc.css.map",
-    "main.6e2f403f.js.map": "/IlyassPortfolio/static/js/main.6e2f403f.js.map"
+    "main.dc92ea50.js.map": "/IlyassPortfolio/static/js/main.dc92ea50.js.map"
   },
   "entrypoints": [
     "static/css/main.58462fbc.css",
-    "static/js/main.6e2f403f.js"
+    "static/js/main.dc92ea50.js"
   ]
 }
